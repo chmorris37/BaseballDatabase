@@ -1,6 +1,6 @@
 # Cosc 61 Final Project
 Author: Charlie Morris
-Theme: Baseball Analytics
+\n Theme: Baseball Analytics
 
 ## Milestone 1: Dataset Research and Project Site
 
