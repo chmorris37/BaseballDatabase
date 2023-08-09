@@ -17,8 +17,7 @@ Written in the Wiki of this repository
 ## Milestone 2: Database Design
 
 ### Task 1: Create an Entity Relationship Diagram for the proposed database
-Screenshot in Wiki of this repository
-
+Screenshot in Wiki of this repository <br>
 MWB file uploaded to the code section
 
 ### Task 2: Database Build Plan
