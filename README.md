@@ -27,6 +27,8 @@ Written in the Wiki of this repository
 
 ### Task 1: Create and execute a SQL Script to implement to schema of the database (DDL)
 Screenshot in Wiki of this repository for all the tables in my schema\
+
 Screenshot in Wiki of the reverse engineered diagram\
+
 A .sql file uploaded to the code section that I used to design and modify my schema 
 
