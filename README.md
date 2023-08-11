@@ -28,7 +28,11 @@ Written in the Wiki of this repository
 ### Task 1: Create and execute a SQL Script to implement to schema of the database (DDL)
 Screenshot in Wiki of this repository for all the tables in my schema <br>
 Screenshot in Wiki of the reverse engineered diagram <br>
-A .sql file uploaded to the code section that I used to design and modify my schema 
+Included is .sql file uploaded to the code section that I used to design and modify my schema 
 
 ### Task 2: How I imported the Data into my Database
 In Wiki section, I document my approach to importing the data
+
+### Task 3: Execute SQL Queries to answer one of my proposed question
+In Wiki section, I document my queries and the results<br>
+Uploaded to teh code section is the .sql script I use to run my queries
