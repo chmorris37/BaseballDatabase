@@ -35,4 +35,4 @@ In Wiki section, I document my approach to importing the data
 
 ### Task 3: Execute SQL Queries to answer one of my proposed question
 In Wiki section, I document my queries and the results<br>
-Uploaded to teh code section is the .sql script I use to run my queries
+In the ode section is the .sql script I use to run my queries
