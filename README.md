@@ -36,3 +36,17 @@ In Wiki section, I document my approach to importing the data
 ### Task 3: Execute SQL Queries to answer one of my proposed question
 In Wiki section, I document my queries and the results<br>
 In the code section is the .sql script I use to run my queries
+
+## Milestone 4: Database Enhancement
+
+### Task 1: Database Features and Enhancements: Python Data Analytics
+Along with more SQL queries, I connect my database to Python to run more complex analyses <br>
+I document my process in the Wiki of this repository <br>
+I post and discuss results in the Wiki of this repository <br>
+Uploaded to the code section is a .sql file of my queries and a pdf of my Jupyter Notebook file
+
+### Task 2: Answering Questions
+In Wiki section, I discuss the results of SQL and Python Data Analyses
+
+### Task 3: Project Site Finalization
+I cleaned up and organized my notes in both the Wiki Section and ReadME.
