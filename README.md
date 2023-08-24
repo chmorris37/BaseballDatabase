@@ -2,6 +2,7 @@
 Author: Charlie Morris
 
 Theme: Baseball Analytics
+
 Database enhancement: Python
 
 ## Organization
